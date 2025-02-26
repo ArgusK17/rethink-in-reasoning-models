@@ -1,0 +1,3 @@
+demo.ipynb includes data generation and collection, all experiments, and figure plotting. We have also provided precomputed results for time-consuming steps, such as the original prompt-response pairs and the prompt-response pairs after various modifications, all stored in the results folder.
+
+When running the notebook, you can skip the “Generate responses” section and start directly from “Collect activations.”
